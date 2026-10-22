@@ -181,3 +181,17 @@ I also practiced troubleshooting an error and documenting the steps taken to res
 - Learn Linux users and groups.
 - Practice file permissions.
 - Learn process management and networking commands.
+
+## Screenshots
+
+### 1. Apache2 installation
+![Apache2 installation](screenshots/downloading%20apache.png)
+
+### 2. Apache2 service status
+![Apache2 service status](screenshots/apache%20status%20checking.png)
+
+### 3. Apache2 running status
+![Apache2 running status](screenshots/apache%20start%20status%20checking.png)
+
+### 4. Apache2 stopped status
+![Apache2 stopped status](screenshots/apache%20stop%20status%20checking.png)
