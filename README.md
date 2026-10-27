@@ -1,66 +1,67 @@
-
-# Linux Learning Journal 🐧
+# 🐧 Linux Learning Journal
 
 Welcome to my Linux Learning Journal!
 
-I am building my technical skills in Linux system administration, networking, cloud computing, and cybersecurity through hands-on labs and practical projects.
+I'm building practical skills in Linux system administration, networking, cloud computing, and cybersecurity through hands-on labs, troubleshooting exercises, and project documentation.
 
-This repository documents my learning journey, the commands I practice, the problems I troubleshoot, and the solutions I discover.
+This repository documents my learning journey, the commands I practice, the problems I encounter, and the solutions I discover.
 
 ## 🎯 Learning Goals
 
 - Learn Linux commands and system administration.
-- Understand users, groups, and file permissions.
-- Practice managing services using `systemctl`.
-- Learn networking fundamentals and troubleshooting.
-- Explore cloud computing and cybersecurity concepts.
+- Understand Linux users, groups, and file permissions.
+- Manage system services using `systemctl`.
+- Develop networking and troubleshooting skills.
+- Explore cloud computing and cybersecurity fundamentals.
 - Build practical projects and document my progress.
 
 ## 🧪 Hands-On Labs
 
 ### 1. Apache2 Service Management
 
-Learn how to install Apache2, start and stop the service, check its status, and troubleshoot common problems.
+**Objective:** Learn how to install, start, check, enable, and stop the Apache2 web server on Ubuntu Linux.
 
-**Topics covered:**
-- Installing Apache2 using APT.
-- Managing services using `systemctl`.
-- Checking whether a service is running.
-- Troubleshooting a missing service.
-- Documenting results with screenshots.
+**Skills demonstrated:**
+- Package installation using `apt`
+- Linux service management using `systemctl`
+- Checking service status
+- Troubleshooting service-related errors
+- Documenting commands and results
 
-[View Apache2 Service Management Lab](apache-systemctl-service-management.md)
+📄 [View Apache2 Service Management Lab](apache-systemctl-service-management.md)
+
+📸 [View Lab Screenshots](screenshots/)
 
 ## 🛠️ Technologies and Tools
 
-- **Operating System:** Ubuntu Linux
-- **Command Line:** Bash
-- **Service Management:** systemd and `systemctl`
-- **Package Management:** APT
-- **Web Server:** Apache2
-- **Documentation:** Markdown
-- **Version Control:** Git and GitHub
-- **Virtualization:** VirtualBox
+- Linux / Ubuntu
+- Bash and Linux command line
+- Apache2 web server
+- `apt` package manager
+- `systemctl` service management
+- Git and GitHub
+- VirtualBox
 
-## 📚 My Learning Roadmap
+## 📚 Current Learning Focus
 
-1. Linux fundamentals
-2. Linux system administration
-3. Networking fundamentals
-4. Cloud computing fundamentals
-5. Cybersecurity fundamentals
-6. Cloud security and practical projects
+- Linux fundamentals
+- Service and process management
+- File permissions and user management
+- Networking fundamentals
+- Cloud computing foundations
+- Cybersecurity fundamentals
 
-## 📈 My Learning Approach
+## 🚀 Future Projects
 
-I believe in learning by doing, documenting what I learn, and improving through troubleshooting.
+- Linux user and permission management
+- Linux log analysis
+- Networking troubleshooting
+- Bash scripting
+- Cloud infrastructure fundamentals
+- Basic system monitoring
 
-Each project helps me strengthen my technical knowledge and gain practical experience.
+## 📈 Learning Philosophy
 
-## 🚀 Long-Term Goal
+I believe in learning by doing. I document my practical exercises, troubleshooting experiences, and lessons learned to strengthen my technical skills and build a portfolio of projects.
 
-My goal is to develop strong skills in cloud computing and cybersecurity and pursue graduate studies in a related field.
-
----
-
-Thank you for visiting my Linux Learning Journal!
+This repository will continue to grow as I progress toward Linux Support, Cloud Engineering, and Cybersecurity roles.
