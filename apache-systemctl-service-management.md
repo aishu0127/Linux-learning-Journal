@@ -185,7 +185,8 @@ I also practiced troubleshooting an error and documenting the steps taken to res
 ## Screenshots
 
 ### 1. Apache2 installation
-![Apache2 installation](screenshots/downloading%20apache.png)
+
+![Apache2 installation](screenshots/Installing%20apache.png)
 
 ### 2. Apache2 service status
 ![Apache2 service status](screenshots/apache%20status%20checking.png)
