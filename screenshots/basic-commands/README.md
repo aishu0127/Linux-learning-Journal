@@ -1,8 +1,9 @@
+# Basic Commands Screenshots
 
-## Screenshots
+## cat, head, tail, and nano commands
 
-### cat, head, tail, nano command
-![cat command](screenshots/basic-commands/command%nano,%cat,%tail,%head.png)
+![Basic Linux commands](<command nano, cat, tail, head ....png>)
 
-### man command
-![man command](screenshots/basic-commands/command%man%cat.png)
+## man command
+
+![Manual page for cat](<command man cat.png>)
