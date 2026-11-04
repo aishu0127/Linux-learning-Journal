@@ -32,6 +32,9 @@ This repository documents my learning journey, the commands I practice, the prob
 
 📸 [View Lab Screenshots](screenshots/)
 
+- [Basic Commands](basic-commands.md) — Practice `cat`, `head`, `tail`, and `man`.
+
+
 ## 🛠️ Technologies and Tools
 
 - Linux / Ubuntu
