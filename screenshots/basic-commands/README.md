@@ -2,7 +2,7 @@
 
 ## cat, head, and tail commands
 
-![Basic Linux commands](basic-command.png)
+![Basic Linux commands](basic%20commands.png)
 
 ## man command
 
