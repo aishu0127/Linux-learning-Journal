@@ -32,7 +32,15 @@ This repository documents my learning journey, the commands I practice, the prob
 
 📸 [View Lab Screenshots](screenshots/)
 
-- [Basic Commands](basic-commands.md) — Practice `cat`, `head`, `tail`, and `man`.
+- [Basic Commands](basic-commands.md) — Practice `cat`, `head`, `tail`, and
+- `man`.
+
+### Linux Navigation, Root Access & System Targets
+
+Learned essential Linux navigation commands, root directory access, user identification, and systemd target switching.
+
+[View Lab](linux-navigation-and-system-targets.md)
+
 
 
 ## 🛠️ Technologies and Tools
