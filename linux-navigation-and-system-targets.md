@@ -140,7 +140,26 @@ This command may return you to a graphical login screen.
 
 ## Evidence
 
-Add screenshots of your terminal outputs to the repository's `screenshots/` directory and link them here.
+## Evidence
+
+### Navigation Commands
+![Linux navigation commands](screenshots/linux-navigation/linux%20navigation%20commands.png)
+
+### Directory Listing
+![ls -la command](screenshots/linux-navigation/ls%20-la%20command.png)
+
+### Root Access
+![Root access using sudo](screenshots/linux-navigation/sudo%20-i%20command.png)
+
+### Multi-User Target
+![Switching to multi-user target](screenshots/linux-navigation/sudo%20systemctl%20isolate%20multi-user%20command.png)
+
+### Multi-User Target Result
+![Multi-user target result](screenshots/linux-navigation/sudo%20system%20isolate%20multi-user%20.png)
+
+### Graphical Target
+![Switching to graphical target](screenshots/linux-navigation/sudo%20system%20isolate%20graphical%20interface.png)
+
 
 Example:
 
