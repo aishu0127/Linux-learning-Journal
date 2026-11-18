@@ -41,6 +41,18 @@ Learned essential Linux navigation commands, root directory access, user identif
 
 [View Lab](linux-navigation-and-system-targets.md)
 
+## Linux Administration Labs
+ [View Lab 01](./lab-01-linux-user-login-and-session-management.md) |
+
+### Skills Practiced
+- Linux User Management
+- Terminal Navigation
+- Password Security
+- Session Management
+- SSH Fundamentals
+- OpenSSH Administration
+
+
 
 
 ## 🛠️ Technologies and Tools
