@@ -121,33 +121,35 @@ The following screenshots demonstrate the practical implementation of Apache2 Se
 
 ### Screenshot 1 — Apache2 Installation
 
-![Apache2 Installation](../screenshots/screenshots/screenshots/lab-01-apache2/01-apache-installation.png)
+![Apache2 Installation](../screenshots/lab-01-apache2/01-apache-installation.png)
 
 ### Screenshot 2 — Initial Service Status
 
-![Apache2 Initial Status](../screenshots/screenshots/screenshots/lab-01-apache2/02-apache-initial-status.png)
+![Apache2 Initial Status](../screenshots/lab-01-apache2/02-apache-initial-status.png)
 
 ### Screenshot 3 — Starting Apache2 Service
 
-![Apache2 Service Start](../screenshots/screenshots/screenshots/lab-01-apache2/03-apache-service-start.png)
+![Apache2 Service Start](../screenshots/lab-01-apache2/03-apache-service-start.png)
 
 ### Screenshot 4 — Apache2 Active Status
 
-![Apache2 Active Status](../screenshots/screenshots/screenshots/lab-01-apache2/04-apache-active-status.png)
+![Apache2 Active Status](../screenshots/lab-01-apache2/04-apache-active-status.png)
 
 ### Screenshot 5 — Localhost Test
 
-![Apache2 Localhost Test](../screenshots/screenshots/screenshots/lab-01-apache2/05-apache-localhost-test.png)
+![Apache2 Localhost Test](../screenshots/lab-01-apache2/05-apache-localhost-test.png)
 
 ### Screenshot 6 — Stopping Apache2 Service
 
-![Apache2 Service Stop](../screenshots/screenshots/screenshots/lab-01-apache2/06-apache-service-stop.png)
+![Apache2 Service Stop](../screenshots/lab-01-apache2/06-apache-service-stop.png)
 
 ### Screenshot 7 — Final Apache2 Status
 
-![Apache2 Final Status](../screenshots/screenshots/screenshots/lab-01-apache2/07-apache-final-status.png)
+![Apache2 Final Status](../screenshots/lab-01-apache2/07-apache-final-status.png)
 
 ## 7. Troubleshooting
+
+
 
 ### Issue 1 — Apache2 service not found
 
