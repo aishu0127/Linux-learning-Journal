@@ -2,72 +2,112 @@
 # Lab 03 – Linux File and Directory Management
 
 ## Objective
-To understand and practice Linux file and directory management using:
-- mkdir
-- touch
-- cp
-- mv
-- rm
+To understand and practice essential Linux file and directory management commands using Ubuntu.
+
+## Commands Covered
+
+| Command | Description |
+|---|---|
+| mkdir | Create directories |
+| touch | Create empty files |
+| cp | Copy files and directories |
+| mv | Move or rename files and directories |
+| rm | Remove files and directories |
+
+---
 
 ## 1. mkdir – Create Directories
 
-The mkdir command creates new directories.
+The `mkdir` command is used to create new directories.
 
-Commands:
 ```bash
 mkdir linux-file-management
 mkdir documents projects backups
 mkdir -p projects/linux/lab03
 ```
 
+**Purpose:** Create single, multiple, and nested directories.
+
+### Screenshot
+![mkdir command](../screenshots/lab-03-file-directory-management/02-mkdir-command.png)
+
+---
+
 ## 2. touch – Create Files
 
-The touch command creates empty files.
+The `touch` command creates empty files.
 
-Commands:
 ```bash
-touch notes.txt
+touch documents/notes.txt
+touch documents/todo.txt
+touch projects/project1.txt
 touch file1.txt file2.txt file3.txt
 ```
 
+**Purpose:** Create empty files in Linux.
+
+### Screenshot
+![touch command](../screenshots/lab-03-file-directory-management/03-touch-command.png)
+
+---
+
 ## 3. cp – Copy Files and Directories
 
-The cp command copies files and directories.
+The `cp` command is used to copy files and directories.
 
-Commands:
 ```bash
 cp documents/notes.txt backups/
 cp documents/todo.txt backups/todo-backup.txt
 cp -r documents documents-backup
 ```
 
-## 4. mv – Move and Rename
+**Purpose:** Copy individual files and entire directories.
 
-The mv command moves or renames files and directories.
+### Screenshot
+![cp command](../screenshots/lab-03-file-directory-management/04-cp-command.png)
 
-Commands:
+---
+
+## 4. mv – Move and Rename Files
+
+The `mv` command moves or renames files and directories.
+
 ```bash
 mv file1.txt renamed-file.txt
 mv file2.txt documents/
 mv projects projects-backup
 ```
 
+**Purpose:** Move files between directories and rename files or folders.
+
+### Screenshot
+![mv command](../screenshots/lab-03-file-directory-management/05-mv-command.png)
+
+---
+
 ## 5. rm – Remove Files and Directories
 
-The rm command removes files and directories.
+The `rm` command removes files and directories.
 
-Commands:
 ```bash
 rm file3.txt
 rmdir empty-folder
 rm -r documents-backup
 ```
 
-**Warning:** The rm command permanently removes files in normal Linux usage. Verify paths before execution.
+**Purpose:** Delete files and directories.
+
+**Warning:** The rm command can permanently delete files. Always verify the file or directory path before execution.
+
+### Screenshot
+![rm command](../screenshots/lab-03-file-directory-management/06-rm-command.png)
+
+---
 
 ## 6. Final Practical Exercise
 
-Commands:
+Combined practical exercise using all five commands.
+
 ```bash
 mkdir final-project
 cd final-project
@@ -79,15 +119,35 @@ mv source/style.css source/main.css
 ls -R
 ```
 
+### Expected Directory Structure
+
+```text
+final-project/
+├── backup/
+│   └── index.html
+└── source/
+    ├── index.html
+    └── main.css
+```
+
+### Screenshot
+![Final practical](../screenshots/lab-03-file-directory-management/07-final-practical.png)
+
+---
+
 ## Learning Outcomes
 
-- Created directories using mkdir.
-- Created empty files using touch.
-- Copied files and directories using cp.
-- Moved and renamed files using mv.
-- Removed files and directories using rm.
-- Practiced basic Linux filesystem management.
+After completing this lab, I learned how to:
+
+- Create directories using mkdir.
+- Create empty files using touch.
+- Copy files and directories using cp.
+- Move and rename files using mv.
+- Remove files and directories using rm.
+- Organize files and directories in Ubuntu Linux.
 
 ## Conclusion
 
-Successfully completed Lab 03 and learned essential Linux file and directory management commands.
+Successfully completed Lab 03 – Linux File and Directory Management.
+
+This practical lab helped me understand essential Linux filesystem operations and improve my command-line skills using Ubuntu.
